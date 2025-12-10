@@ -59,7 +59,7 @@ I am a **Software Engineer** and a  student at **Samarkand State University**. I
 ## 📫 Contact
 
 * Email: [muzaffarbekmustafayev@gmail.com](mailto:muzaffarbekmustafayev@gmail.com)
-* GitHub: [github.com/muzaffarbekmustafayev](https://github.com/muzaffarbekmustafayev)
+* GitHub: [github.com/muzaffarbekmustafayevgit](https://github.com/muzaffarbekmustafayevgit)
 
 ---
 
